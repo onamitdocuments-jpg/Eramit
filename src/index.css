@@ -5,6 +5,34 @@
   --font-sans: "Outfit", "Noto Sans Devanagari", ui-sans-serif, system-ui, sans-serif;
   --font-display: "Outfit", sans-serif;
   --font-hindi: "Noto Sans Devanagari", sans-serif;
+
+  /* Bhagwa (Saffron Orange) Theme - Override Teal Palette */
+  --color-teal-50: #fff5eb;       /* Very light warm saffron-tint white mix */
+  --color-teal-100: #ffeedb;      /* Saffron cream white blend */
+  --color-teal-150: #ffe0b2;      /* Saffron border color */
+  --color-teal-200: #ffcc80;      /* Gentle saffron highlight */
+  --color-teal-300: #ffb74d;      /* Mid soft saffron */
+  --color-teal-400: #ffa726;      /* Bright gold saffron */
+  --color-teal-500: #ff9933;      /* Sacred Bhagwa Saffron (#FF9933) */
+  --color-teal-600: #fb8c00;      /* Vivid bhagwa */
+  --color-teal-700: #f57c00;      /* Rich deep bhagwa */
+  --color-teal-800: #e65100;      /* Dark premium bhagwa orange */
+  --color-teal-850: #d84315;      /* Crimson saffron */
+  --color-teal-900: #bf360c;      /* Intense deep rust bhagwa */
+  --color-teal-905: #b22d05;      /* Accent text dark saffron */
+  --color-teal-950: #3e0c00;      /* Extreme warm dark earth tone */
+
+  /* Bhagwa/Gold Accents - Override Emerald Palette */
+  --color-emerald-50: #fffaf2;    /* Ultra light soft golden cream white */
+  --color-emerald-100: #fff0e0;   /* Cream gold white */
+  --color-emerald-200: #ffe0b2;   /* Soft warm orange aspect */
+  --color-emerald-300: #ffcc80;   /* Bright gold aspect */
+  --color-emerald-500: #ff9933;   /* Pure Bhagwa saffron color */
+  --color-emerald-600: #ff6f00;   /* High visibility bhagwa orange */
+  --color-emerald-700: #e65100;   /* Rich bright bhagwa */
+  --color-emerald-800: #d84315;   /* Bold terracotta saffron */
+  --color-emerald-850: #bf360c;   /* Accent crimson saffron value */
+  --color-emerald-950: #300a00;   /* Extremely elegant dark brick bhagwa */
 }
 
 body {
