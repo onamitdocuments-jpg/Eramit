@@ -1,0 +1,6 @@
+{
+  "name": "Rural Company",
+  "description": "भारत की अग्रणी होम सर्विसेज़ टेक्नोलॉजी कंपनी - Rural Company | ग्रामीण एवं शहरी क्षेत्रों के लिए विश्वसनीय घरेलू सेवाएँ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
